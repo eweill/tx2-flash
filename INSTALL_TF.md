@@ -60,7 +60,7 @@ Once Tensorflow has completed building and a wheel file has been created, it can
 
 After successful installation, reboot the system and then you should be able to test the installation as shown below:
 
-    ```
+    ~~~~
     # Reboot the system
     sudo reboot
 
@@ -77,5 +77,5 @@ totalMemory: 7.66GiB freeMemory: 3.94GiB
 2018-01-07 14:47:40.548559: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: NVIDIA Tegra X2, pci bus id: 0000:00:00.0, compute capability: 6.2)
     >>> print(sess.run(hello))
     hello, all
-    ```
+    ~~~~
 
