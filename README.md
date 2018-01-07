@@ -12,7 +12,7 @@ Prerequisites and full instructions for using a Mac desktop/laptop to flash a NV
 
 ### Pre-build Installation
 
-A pre-built wheel file for Python 2.7 (TF 1.5, CUDA 9.0, cuDNN 7.0) is available [here](TX2/tensorflow-1.5.0rc0-cp27-cp27mu-linux_aarch64.whl) if you are not interested in building Tensorflow from source.  Once you have the wheel file proceed to install using python-pip.
+A pre-built wheel file for Python 2.7 (TF 1.5, CUDA 9.0, cuDNN 7.0) is available [here](https://github.com/eweill/tx2-flash/blob/master/TX2/tensorflow-1.5.0rc0-cp27-cp27mu-linux_aarch64.whl?raw=true) if you are not interested in building Tensorflow from source.  Once you have the wheel file proceed to install using python-pip.
 
     sudo apt-get install -y python-pip python-dev
     sudo pip install tensorflow-1.5.0rc0-cp27-cp27mu-linux_aarch64.whl
