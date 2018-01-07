@@ -52,7 +52,7 @@ The following script uses the tensorflow installation to create a wheel file tha
 
     ./scripts/buildTensorflow.sh
 
-## Install Tensoflow using Pip
+## Install Tensorflow using Pip
 
 Once Tensorflow has completed building and a wheel file has been created, it can be installed as a python package.  The wheel file is located in the $HOME directory (per the script ran before).
 
