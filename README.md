@@ -29,6 +29,6 @@ To built Tensorflow from source, a swapfile must be created on the internal eMMC
 
 This repository was modified from the following pages:
 
-    - https://github.com/jetsonhacks/installTensorFlowJetsonTX
-    - https://github.com/jetsonhacks/installTensorFlowTX2
-    - http://blog.csdn.net/weixin_35654926/article/details/78635859
+* https://github.com/jetsonhacks/installTensorFlowJetsonTX
+* https://github.com/jetsonhacks/installTensorFlowTX2
+* http://blog.csdn.net/weixin_35654926/article/details/78635859
