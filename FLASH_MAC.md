@@ -1,6 +1,6 @@
 # Flash NVIDIA TX2 with Jetpack using Mac with VirtualBox
 
-This repository provides detailed instructions on how to flash NVIDIA's Jetson TX2 with a Mac running VirtualBox.  Current OS setup is given for reference and has not been tested on other setups.
+This README provides detailed instructions on how to flash NVIDIA's Jetson TX2 with a Mac running VirtualBox.  Current OS setup is given for reference and has not been tested on other setups.
 
 ---
 
